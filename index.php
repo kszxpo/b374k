@@ -3,10 +3,10 @@
 	b374k shell
 	Jayalah Indonesiaku
 	(c)2014
-	https://github.com/b374k/b374k
+	https://github.com/aji/aji
 
 */
-$GLOBALS['packer']['title'] = "b374k shell packer";
+$GLOBALS['packer']['title'] = "aji";
 $GLOBALS['packer']['version'] = "0.4.2";
 $GLOBALS['packer']['base_dir'] = "./base/";
 $GLOBALS['packer']['module_dir'] = "./module/";
